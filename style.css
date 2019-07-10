@@ -1,0 +1,17 @@
+h1{
+  font-family: 'Barriecito', cursive;
+  display: inline-block;
+}
+h2{
+  font-family: 'Barriecito', cursive;
+  display: incline-block;
+}
+h3{
+  font-family: 'Barriecito', cursive;
+}
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+div{
+  background-color: #ADFF2F;
+}
